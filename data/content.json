@@ -1,0 +1,71 @@
+{
+  "articles": [
+    {
+      "title": "A Greater Reality",
+      "link": "https://agreaterreality.com/",
+      "type": "Website"
+    },
+    {
+      "title": "The Light at the End: Patterns in NDE Narratives",
+      "link": "https://medium.com/@nde-research/the-light-at-the-end-patterns-in-nde-narratives",
+      "type": "Medium Article"
+    },
+    {
+      "title": "Mapping the Beyond: A Data-Driven Portrait",
+      "link": "https://medium.com/@nde-research/mapping-the-beyond-data-driven-portrait",
+      "type": "Medium Article"
+    },
+    {
+      "title": "When Science Meets Spirit: Case Study",
+      "link": "https://medium.com/@nde-research/when-science-meets-spirit-case-study",
+      "type": "Medium Article"
+    },
+    {
+      "title": "Echoes of Eternity: Visualization of Common Themes",
+      "link": "https://medium.com/@nde-research/echoes-of-eternity-visualization",
+      "type": "Medium Article"
+    },
+    {
+      "title": "From Chaos to Clarity: Inductive Modeling in NDE",
+      "link": "https://medium.com/@nde-research/from-chaos-to-clarity-inductive-modeling",
+      "type": "Medium Article"
+    },
+    {
+      "title": "NDEs Across Cultures: A Comparative Review",
+      "link": "https://medium.com/@nde-research/ndes-across-cultures-comparative-review",
+      "type": "Medium Article"
+    }
+  ],
+  "chatbots": [
+    {
+      "title": "ChatGPT NDE Explorer chatbot",
+      "link": "https://chatgpt.com/g/g-686364602b788191b077e60b59a605f7-near-death-experience-explorer",
+      "description": "Based on 3863 cases cleaned out of 4976 original accounts",
+      "icon": "chatgpt",
+      "color": "violet"
+    },
+    {
+      "title": "Comparing responses from Google NotebookLM",
+      "link": "https://notebooklm.google.com/notebook/f3d5a844-1ebb-435e-bdf6-32b59aa16a64",
+      "description": "See how our insights stack up against the leading AI platforms",
+      "icon": "google",
+      "color": "emerald"
+    },
+    {
+      "title": "A new, rigorously and specially trained NDE chatbot to deliver highly accurate, relevant insights.",
+      "link": "#",
+      "description": "",
+      "icon": "robot",
+      "color": "purple",
+      "comingSoon": true
+    },
+    {
+      "title": "Cyber-Channelling: Keep your sessions going with The Ra Contact",
+      "link": "#",
+      "description": "Continue your exploration with AI-powered channelling",
+      "icon": "chatgpt",
+      "color": "blue"
+    }
+  ],
+  "lastUpdated": "2025-01-27T12:35:00Z"
+} 

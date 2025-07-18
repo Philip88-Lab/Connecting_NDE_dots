@@ -1,0 +1,58 @@
+backend:
+  name: git-gateway
+  branch: main
+
+local_backend: true
+
+media_folder: "public/images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "hero"
+    label: "Hero Section"
+    files:
+      - name: "hero-content"
+        label: "Hero Content"
+        file: "src/data/hero.json"
+        fields:
+          - {label: "Main Title", name: "title", widget: "string"}
+          - {label: "Subtitle", name: "subtitle", widget: "text"}
+          - {label: "Description", name: "description", widget: "text"}
+          - {label: "CTA Text", name: "ctaText", widget: "string"}
+
+  - name: "footer"
+    label: "Footer"
+    files:
+      - name: "footer-content"
+        label: "Footer Content"
+        file: "src/data/footer.json"
+        fields:
+          - {label: "Brand Name", name: "brandName", widget: "string"}
+          - {label: "Description", name: "description", widget: "text"}
+          - {label: "Medium URL", name: "mediumUrl", widget: "string"}
+          - {label: "Twitter URL", name: "twitterUrl", widget: "string"}
+          - {label: "Facebook URL", name: "facebookUrl", widget: "string"}
+          - {label: "YouTube URL", name: "youtubeUrl", widget: "string"}
+
+  - name: "pages"
+    label: "Pages"
+    files:
+      - name: "about"
+        label: "About Page"
+        file: "src/data/about.json"
+        fields:
+          - {label: "Page Title", name: "title", widget: "string"}
+          - {label: "Content", name: "content", widget: "markdown"}
+
+  - name: "blog"
+    label: "Blog Posts"
+    folder: "src/content/blog"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"} 
