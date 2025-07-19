@@ -1,3 +1,6 @@
+# Ignore everything that shouldn't be pushed to GitHub
+
+
 # Logs
 logs
 *.log
@@ -23,3 +26,17 @@ dist-ssr
 *.sln
 *.sw?
 .env
+
+# Backup folders
+backup-*/
+
+# Temporary build/test output
+coverage/
+temp/
+.cache/
+output/
+
+# CMS or deployment files (if generated locally)
+.vercel/
+.netlify/
+firebase.json
