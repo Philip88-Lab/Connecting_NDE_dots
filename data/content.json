@@ -40,7 +40,7 @@
     {
       "title": "ChatGPT NDE Explorer chatbot",
       "link": "https://chatgpt.com/g/g-686364602b788191b077e60b59a605f7-near-death-experience-explorer",
-      "description": "A research-grade NDE chatbot built on 4180 cases/accounts cleaned and structured from nderf.org, configured for academic rigor and analytical reliability.",
+      "description": "A research-grade NDE chatbot built on 4180 cases cleaned and structured from nderf.org, configured for academic rigor and analytical reliability.",
       "icon": "chatgpt",
       "color": "violet"
     },
