@@ -40,14 +40,14 @@
     {
       "title": "ChatGPT NDE Explorer chatbot",
       "link": "https://chatgpt.com/g/g-686364602b788191b077e60b59a605f7-near-death-experience-explorer",
-      "description": "Based on 3863 cases cleaned out of 4976 original accounts",
+      "description": "A research-grade NDE chatbot built on 4180 cases/accounts cleaned and structured from nderf.org, configured for academic rigor and analytical reliability.",
       "icon": "chatgpt",
       "color": "violet"
     },
     {
       "title": "Comparing responses from Google NotebookLM",
       "link": "https://notebooklm.google.com/notebook/f3d5a844-1ebb-435e-bdf6-32b59aa16a64",
-      "description": "See how our insights stack up against the leading AI platforms",
+      "description": "See how our insights stack up against the most rigorous AI at the moment.",
       "icon": "google",
       "color": "emerald"
     },
@@ -68,5 +68,5 @@
       "comingSoon": true
     }
   ],
-  "lastUpdated": "2025-07-26T09:00:06.430Z"
+  "lastUpdated": "2025-08-05T03:41:38.929Z"
 }
