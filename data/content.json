@@ -40,14 +40,14 @@
     {
       "title": "ChatGPT NDE Explorer chatbot",
       "link": "https://chatgpt.com/g/g-6896f326b0b48191b3dbd5847d4fcba4-near-death-experience-explorer",
-      "description": "An NDE research chatbot built on 4180 cases cleaned and structured from nderf.org, configured for academic rigor and analytical reliability.",
+      "description": "An NDE research chatbot built on 5662 cases cleaned and structured from nderf.org, configured for academic rigor and analytical reliability.",
       "icon": "chatgpt",
       "color": "violet"
     },
     {
       "title": "Comparing responses from Google NotebookLM",
       "link": "https://notebooklm.google.com/notebook/f3d5a844-1ebb-435e-bdf6-32b59aa16a64",
-      "description": "The same 4180 NDE cases fed to Google NotebookLM for comparison. See how our insights stack up against the most rigorous AI at the moment.",
+      "description": "4180 NDE cases fed to Google NotebookLM for comparison. See how our insights stack up against the most rigorous AI at the moment.",
       "icon": "google",
       "color": "emerald"
     },
